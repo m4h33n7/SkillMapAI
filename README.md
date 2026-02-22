@@ -14,8 +14,6 @@ SkillMap AI is a web app that helps you discover job matches based on your skill
 
 **[Open SkillMap AI](https://m4h33n7.github.io/SkillMapAI/)**
 
-*(If the app is in a subfolder, use: [files/skillmap_app.html](https://m4h33n7.github.io/SkillMapAI/files/skillmap_app.html) or the path that matches your repo.)*
-
 ## How to run locally
 
 1. Clone the repo:
